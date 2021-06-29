@@ -18,6 +18,7 @@ import '@/plugins/vant'
 import '@/assets/css/index.scss'
 // 移动端适配
 import 'lib-flexible/flexible.js'
+import 'http://res.wx.qq.com/open/js/jweixin-1.2.0.js'
 
 // filters
 import './filters'
